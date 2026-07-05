@@ -18,6 +18,9 @@ Human operators interact with the AI, not the dust directly. They set intentions
 ## Local Use by Architects
 Beyond city-wide systems like weather control, the dust can also be tuned locally within a single quarter — fog, light quality, ambient chill, and more — to reinforce the aesthetic vision of that quarter's Architect. See [Quarters & Architects](../../geography/city/quarters.md).
 
+## The One Exception
+[The Dome](../../geography/city/the-dome.md), a large park elsewhere in the city, is deliberately kept free of particle dust entirely — the only place in Atlantis with no dust presence at all. It's preserved this way on purpose, not an oversight.
+
 ## Open Questions
 - How are the particles manufactured and replenished?
 - Is the dust distributed evenly across the city, or concentrated in specific zones?

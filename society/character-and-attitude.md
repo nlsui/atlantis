@@ -12,6 +12,10 @@ This doesn't manifest as arrogance in any obvious or villainous way. It's subtle
 
 It is a blind spot worn lightly, like a very expensive coat.
 
+## The Festival
+
+Once a year, the city gets the closest thing it has to a collective glimpse behind the curtain: two days at [The Dome](../geography/city/the-dome.md), the one place with no particle dust at all, living without any AI assistance whatsoever. It is a beloved, highly anticipated tradition — but notably, it isn't experienced as a wake-up call. People don't leave questioning how dependent they are; they leave having had a fun, novel couple of days, and return gratefully to the ease waiting for them outside the dome. If anything, the festival reinforces the blind spot rather than piercing it — proof, to those who attend, that they can "handle" life without AI, even though it lasts only two days a year and everyone knows exactly when it ends.
+
 ## Open Questions
 - Does anyone in the city have genuine self-awareness about this collective overconfidence?
 - Are there subcultures or individuals who push back against the ease — who seek out real challenge or discomfort?

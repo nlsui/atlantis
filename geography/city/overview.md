@@ -13,3 +13,6 @@ To everyone who lives in Atlantis, it is the only city in the world. There are n
 
 ## Quarters
 The city is divided into quarters, each shaped by the creative vision of an Architect who controls its aesthetic and atmosphere. See [Quarters & Architects](quarters.md) for details.
+
+## Landmarks
+Not everywhere in the city is a quarter. [The Dome](the-dome.md) is a large park deliberately kept free of particle dust — the only such place in Atlantis — and home to an annual festival built around that fact.
