@@ -18,6 +18,12 @@ This gives artists, designers, and tastemakers real cultural power. Excellence t
 
 This ethos extends beyond conventional art — it permeates everything, including combat. The defense force is as much a part of the aesthetic culture as any painter or designer. How you fight is as important as whether you win.
 
+## Architects
+
+The clearest expression of taste-as-career is the **Architect** — a designer entrusted with an entire quarter of the city to shape as they see fit. As with other forms of status in Atlantis, the role is earned through prestige and acclaim rather than wealth. See [Quarters & Architects](../geography/city/quarters.md) for details.
+
+The preference for style runs deep enough that people will accept real inconvenience — fewer amenities, less practical living — to be somewhere that feels right. Being "in" outweighs comfort. Where people choose to live, quarter by quarter, is the clearest everyday evidence of whose vision is currently winning.
+
 ## Open Questions
 - Are there recognized tastemakers, artists, or style icons who hold significant social influence?
 - Is there a tension between "old" established taste (perhaps tied to the founding elite) and newer, more subversive aesthetics?

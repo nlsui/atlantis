@@ -7,6 +7,7 @@ The AI layer is not secret, exactly, but it is not obvious either. It is so deep
 ## Known Systems (to be expanded)
 - **Weather control** — manages climate and atmospheric conditions within and around the city
 - **City security** — monitors and maintains safety across the city
+- **Quarter design** — realizes an [Architect's](../geography/city/quarters.md) creative vision for a district, the same intention-and-execution pattern applied to urban design rather than weather
 - *(More systems to be defined)*
 
 ## Open Questions

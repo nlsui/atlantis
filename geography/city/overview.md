@@ -10,3 +10,6 @@ To everyone who lives in Atlantis, it is the only city in the world. There are n
 - Warm but not tropical
 - Temperate and livable year-round
 - The surrounding nature — grasslands, forests, mountains, sea — reflects this: lush and green, not arid or frozen
+
+## Quarters
+The city is divided into quarters, each shaped by the creative vision of an Architect who controls its aesthetic and atmosphere. See [Quarters & Architects](quarters.md) for details.

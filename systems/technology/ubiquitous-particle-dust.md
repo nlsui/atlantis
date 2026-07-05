@@ -15,6 +15,9 @@ The particle network generates data and complexity at a scale no human can direc
 
 Human operators interact with the AI, not the dust directly. They set intentions; the AI figures out how to make the particles execute them.
 
+## Local Use by Architects
+Beyond city-wide systems like weather control, the dust can also be tuned locally within a single quarter — fog, light quality, ambient chill, and more — to reinforce the aesthetic vision of that quarter's Architect. See [Quarters & Architects](../../geography/city/quarters.md).
+
 ## Open Questions
 - How are the particles manufactured and replenished?
 - Is the dust distributed evenly across the city, or concentrated in specific zones?
