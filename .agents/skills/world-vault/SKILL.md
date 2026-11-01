@@ -126,6 +126,13 @@ A world can publish several wikis (build variants in `world.config.json`, e.g. a
 - Keep anything meant for fewer readers (a GM secret, a later plot twist) out of files the wider audience sees. Put it in its own file with narrower tags, and link to it from there.
 - A link to a file a wiki leaves out turns into plain text, so its title still shows. Give secret files titles that don't give the secret away.
 
+**Supplements: details for fewer readers, shown on the same page.** When extra details about an entity are meant for fewer readers (the Dome's technical workings, a character's secret past), put them in a supplement: their own entity file with `partOf`, a link to the main entry's first file. Its title names the section, e.g. "The Dome — Technical Details".
+- A wiki that includes both shows the supplement as a section of the main entry's page, with its relations and events. A wiki without it shows the main entry as if there were none. Links to a supplement go to its section.
+- The main entry doesn't link to its supplements, so a wiki without one never hints at it. Put the link on the supplement only.
+- A supplement can only be in wikis its main entry is in. Give it the main entry's tags plus narrower ones; `create`, `update` and `configure` refuse anything that would put it in a wiki on its own.
+- Supplements don't nest. Write its own headings from `###` down, since its title is the `##` heading.
+- It changes over time like any entity, with its own versions.
+
 ## 10. Answering questions about the world
 
 (For timeline pages, use the world-timelines skill.)

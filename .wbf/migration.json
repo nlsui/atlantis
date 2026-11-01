@@ -1,6 +1,6 @@
 {
-  "frameworkVersion": "0.2.9",
-  "format": "content-restructured",
+  "frameworkVersion": "0.2.11",
+  "format": "audience-supplements",
   "entries": [
     {
       "id": "0d15b29c-79fd-495c-9454-0cc963fe08a1",
@@ -9,14 +9,33 @@
       "legacySources": [
         "geography/city/quarters.md",
         "society/arts-and-style.md"
+      ],
+      "tags": [
+        "lore",
+        "institutions",
+        "Atlantis inhabitants"
       ]
     },
     {
-      "id": "b0729f42-efb8-4df0-bcac-3da7c46d08e4",
-      "title": "Architect Guild",
-      "path": "b0729f42-efb8-4df0-bcac-3da7c46d08e4.md",
-      "legacySources": [
-        "geography/city/quarters.md"
+      "id": "5b2b1e73-7396-44c0-aedc-18ff88db970b",
+      "title": "Weather Control",
+      "path": "5b2b1e73-7396-44c0-aedc-18ff88db970b.md",
+      "legacyPath": "systems/technology/weather-control.md",
+      "tags": [
+        "lore",
+        "technology",
+        "Atlantis inhabitants"
+      ]
+    },
+    {
+      "id": "aa6eda8e-963e-4dcc-9af9-5145cd8c9527",
+      "title": "The Dome",
+      "path": "aa6eda8e-963e-4dcc-9af9-5145cd8c9527.md",
+      "legacyPath": "geography/city/the-dome.md",
+      "tags": [
+        "lore",
+        "geography",
+        "Atlantis inhabitants"
       ]
     },
     {
@@ -26,14 +45,88 @@
       "legacySources": [
         "geography/city/the-dome.md",
         "society/character-and-attitude.md"
+      ],
+      "tags": [
+        "lore",
+        "society",
+        "Atlantis inhabitants"
       ]
     },
     {
-      "id": "a3d3031d-9e23-4b4e-95b7-75a5d71cb0ed",
-      "title": "Defense Academy",
-      "path": "a3d3031d-9e23-4b4e-95b7-75a5d71cb0ed.md",
-      "legacySources": [
-        "systems/defense-force.md"
+      "id": "056ae6dd-1c03-4b3a-9e2a-f59082dab862",
+      "title": "Character & Attitude",
+      "path": "056ae6dd-1c03-4b3a-9e2a-f59082dab862.md",
+      "legacyPath": "society/character-and-attitude.md",
+      "tags": [
+        "lore",
+        "society",
+        "Atlantis inhabitants"
+      ]
+    },
+    {
+      "id": "ab11744a-9b3d-4c17-82d6-04003387a140",
+      "title": "Wealth & Abundance",
+      "path": "ab11744a-9b3d-4c17-82d6-04003387a140.md",
+      "legacyPath": "society/wealth-and-abundance.md",
+      "tags": [
+        "lore",
+        "society",
+        "Atlantis inhabitants"
+      ]
+    },
+    {
+      "id": "ad7aaa44-b455-414e-a43e-9de1b8ca6d65",
+      "title": "Technology Overview",
+      "path": "ad7aaa44-b455-414e-a43e-9de1b8ca6d65.md",
+      "legacyPath": "systems/technology/overview.md",
+      "tags": [
+        "lore",
+        "technology",
+        "Atlantis inhabitants"
+      ]
+    },
+    {
+      "id": "7d3e16fc-b364-4b58-b06d-b641891452cb",
+      "title": "City of Atlantis",
+      "path": "7d3e16fc-b364-4b58-b06d-b641891452cb.md",
+      "legacyPath": "geography/city/overview.md",
+      "tags": [
+        "lore",
+        "geography",
+        "Atlantis inhabitants"
+      ]
+    },
+    {
+      "id": "0a33431b-a93e-439c-9904-997bbe09e3fe",
+      "title": "Monsters",
+      "path": "0a33431b-a93e-439c-9904-997bbe09e3fe.md",
+      "legacyPath": "geography/beyond-the-city/monsters.md",
+      "tags": [
+        "geography",
+        "lore",
+        "Atlantis inhabitants"
+      ]
+    },
+    {
+      "id": "0f59ea4e-12df-4128-a574-00c64ef20f33",
+      "title": "Government",
+      "path": "0f59ea4e-12df-4128-a574-00c64ef20f33.md",
+      "legacyPath": "systems/government.md",
+      "tags": [
+        "institutions",
+        "lore",
+        "Atlantis inhabitants"
+      ]
+    },
+    {
+      "id": "10a29d1c-2a74-41fe-a8ae-678be2ee5283",
+      "title": "The Defense Force",
+      "path": "10a29d1c-2a74-41fe-a8ae-678be2ee5283.md",
+      "legacyPath": "systems/defense-force.md",
+      "tags": [
+        "institutions",
+        "lore",
+        "Atlantis inhabitants"
       ]
     },
     {
@@ -42,6 +135,32 @@
       "path": "4a15d972-ca62-4a44-aaf5-d1b61c2b25ef.md",
       "legacySources": [
         "systems/education.md"
+      ],
+      "tags": [
+        "society",
+        "lore",
+        "Atlantis inhabitants"
+      ]
+    },
+    {
+      "id": "4ff3b1f5-8246-48e2-95b3-d95432d1b822",
+      "title": "Education",
+      "path": "4ff3b1f5-8246-48e2-95b3-d95432d1b822.md",
+      "legacyPath": "systems/education.md",
+      "tags": [
+        "institutions",
+        "lore",
+        "Atlantis inhabitants"
+      ]
+    },
+    {
+      "id": "6adf0130-83d0-4b37-a8a2-62f745dc64c4",
+      "title": "Ubiquitous Particle Dust",
+      "path": "6adf0130-83d0-4b37-a8a2-62f745dc64c4.md",
+      "legacyPath": "systems/technology/ubiquitous-particle-dust.md",
+      "tags": [
+        "technology",
+        "lore"
       ]
     },
     {
@@ -51,130 +170,237 @@
       "legacySources": [
         "systems/technology/energy-supply.md",
         "geography/city/quarters.md"
+      ],
+      "tags": [
+        "technology",
+        "lore"
       ]
     },
     {
-      "id": "056ae6dd-1c03-4b3a-9e2a-f59082dab862",
-      "title": "Character & Attitude",
-      "path": "056ae6dd-1c03-4b3a-9e2a-f59082dab862.md",
-      "legacyPath": "society/character-and-attitude.md"
-    },
-    {
-      "id": "0a33431b-a93e-439c-9904-997bbe09e3fe",
-      "title": "Monsters",
-      "path": "0a33431b-a93e-439c-9904-997bbe09e3fe.md",
-      "legacyPath": "geography/beyond-the-city/monsters.md"
-    },
-    {
-      "id": "0f59ea4e-12df-4128-a574-00c64ef20f33",
-      "title": "Government",
-      "path": "0f59ea4e-12df-4128-a574-00c64ef20f33.md",
-      "legacyPath": "systems/government.md"
+      "id": "7bf708eb-a5e9-404a-9ba5-a475fcae28dc",
+      "title": "End of the Gene Wars",
+      "path": "7bf708eb-a5e9-404a-9ba5-a475fcae28dc.md",
+      "tags": [
+        "history",
+        "lore",
+        "Atlantis inhabitants"
+      ]
     },
     {
       "id": "98da6ee9-c7fc-412e-8a86-31ff8265dc60",
       "title": "Arts & Style",
       "path": "98da6ee9-c7fc-412e-8a86-31ff8265dc60.md",
-      "legacyPath": "society/arts-and-style.md"
+      "legacyPath": "society/arts-and-style.md",
+      "tags": [
+        "society",
+        "lore",
+        "Atlantis inhabitants"
+      ]
     },
     {
-      "id": "ab11744a-9b3d-4c17-82d6-04003387a140",
-      "title": "Wealth & Abundance",
-      "path": "ab11744a-9b3d-4c17-82d6-04003387a140.md",
-      "legacyPath": "society/wealth-and-abundance.md"
+      "id": "a3d3031d-9e23-4b4e-95b7-75a5d71cb0ed",
+      "title": "Defense Academy",
+      "path": "a3d3031d-9e23-4b4e-95b7-75a5d71cb0ed.md",
+      "legacySources": [
+        "systems/defense-force.md"
+      ],
+      "tags": [
+        "institutions",
+        "lore",
+        "Atlantis inhabitants"
+      ]
     },
     {
-      "id": "6adf0130-83d0-4b37-a8a2-62f745dc64c4",
-      "title": "Ubiquitous Particle Dust",
-      "path": "6adf0130-83d0-4b37-a8a2-62f745dc64c4.md",
-      "legacyPath": "systems/technology/ubiquitous-particle-dust.md"
-    },
-    {
-      "id": "5b2b1e73-7396-44c0-aedc-18ff88db970b",
-      "title": "Weather Control",
-      "path": "5b2b1e73-7396-44c0-aedc-18ff88db970b.md",
-      "legacyPath": "systems/technology/weather-control.md"
-    },
-    {
-      "id": "ad7aaa44-b455-414e-a43e-9de1b8ca6d65",
-      "title": "Technology Overview",
-      "path": "ad7aaa44-b455-414e-a43e-9de1b8ca6d65.md",
-      "legacyPath": "systems/technology/overview.md"
-    },
-    {
-      "id": "7d3e16fc-b364-4b58-b06d-b641891452cb",
-      "title": "City of Atlantis",
-      "path": "7d3e16fc-b364-4b58-b06d-b641891452cb.md",
-      "legacyPath": "geography/city/overview.md"
-    },
-    {
-      "id": "4ff3b1f5-8246-48e2-95b3-d95432d1b822",
-      "title": "Education",
-      "path": "4ff3b1f5-8246-48e2-95b3-d95432d1b822.md",
-      "legacyPath": "systems/education.md"
-    },
-    {
-      "id": "10a29d1c-2a74-41fe-a8ae-678be2ee5283",
-      "title": "The Defense Force",
-      "path": "10a29d1c-2a74-41fe-a8ae-678be2ee5283.md",
-      "legacyPath": "systems/defense-force.md"
-    },
-    {
-      "id": "d28e126f-5ce7-412d-ade3-26c5b955f079",
-      "title": "Quarters",
-      "path": "d28e126f-5ce7-412d-ade3-26c5b955f079.md",
-      "legacyPath": "geography/city/quarters.md"
-    },
-    {
-      "id": "aa6eda8e-963e-4dcc-9af9-5145cd8c9527",
-      "title": "The Dome",
-      "path": "aa6eda8e-963e-4dcc-9af9-5145cd8c9527.md",
-      "legacyPath": "geography/city/the-dome.md"
-    },
-    {
-      "id": "d65f2742-9501-4833-9ef1-ccefd89cf437",
-      "title": "Energy Supply",
-      "path": "d65f2742-9501-4833-9ef1-ccefd89cf437.md",
-      "legacyPath": "systems/technology/energy-supply.md"
+      "id": "b0729f42-efb8-4df0-bcac-3da7c46d08e4",
+      "title": "Architect Guild",
+      "path": "b0729f42-efb8-4df0-bcac-3da7c46d08e4.md",
+      "legacySources": [
+        "geography/city/quarters.md"
+      ],
+      "tags": [
+        "institutions",
+        "lore",
+        "Atlantis inhabitants"
+      ]
     },
     {
       "id": "bf823195-c261-4d27-9649-b2c4970787c8",
       "title": "AI Infrastructure",
       "path": "bf823195-c261-4d27-9649-b2c4970787c8.md",
-      "legacyPath": "systems/ai-infrastructure.md"
+      "legacyPath": "systems/ai-infrastructure.md",
+      "tags": [
+        "technology",
+        "lore"
+      ]
+    },
+    {
+      "id": "d28e126f-5ce7-412d-ade3-26c5b955f079",
+      "title": "Quarters",
+      "path": "d28e126f-5ce7-412d-ade3-26c5b955f079.md",
+      "legacyPath": "geography/city/quarters.md",
+      "tags": [
+        "geography",
+        "lore",
+        "Atlantis inhabitants"
+      ]
+    },
+    {
+      "id": "d65f2742-9501-4833-9ef1-ccefd89cf437",
+      "title": "Energy Supply",
+      "path": "d65f2742-9501-4833-9ef1-ccefd89cf437.md",
+      "legacyPath": "systems/technology/energy-supply.md",
+      "tags": [
+        "technology",
+        "lore"
+      ]
     },
     {
       "id": "e3429e96-f055-4be9-9cb5-e400d1b7e628",
       "title": "Beyond the City",
       "path": "e3429e96-f055-4be9-9cb5-e400d1b7e628.md",
-      "legacyPath": "geography/beyond-the-city/overview.md"
+      "legacyPath": "geography/beyond-the-city/overview.md",
+      "tags": [
+        "geography",
+        "lore",
+        "Atlantis inhabitants"
+      ]
     },
     {
-      "id": "c6fe54af-e77e-4133-9bf9-9af2622bde10",
-      "title": "Geography — Open Questions",
-      "path": "builder-notes/c6fe54af-e77e-4133-9bf9-9af2622bde10.md",
-      "legacyPath": "geography/ideas-and-open-questions/beyond-the-city.md"
+      "id": "5e5a501e-b93a-483c-8f21-5d9e9395cb47",
+      "title": "Architects — Technical Realization",
+      "path": "5e5a501e-b93a-483c-8f21-5d9e9395cb47.md",
+      "partOf": "[[0d15b29c-79fd-495c-9454-0cc963fe08a1|Architects]]",
+      "tags": [
+        "lore",
+        "supplement",
+        "institutions"
+      ]
     },
     {
-      "id": "71005257-10c3-4d53-a389-64073c5e9dad",
-      "title": "Society — Open Questions",
-      "path": "builder-notes/71005257-10c3-4d53-a389-64073c5e9dad.md"
+      "id": "a49aa8fe-f7e7-4381-b0c7-b537df4790c7",
+      "title": "Weather Control — Technical Operation",
+      "path": "a49aa8fe-f7e7-4381-b0c7-b537df4790c7.md",
+      "partOf": "[[5b2b1e73-7396-44c0-aedc-18ff88db970b|Weather Control]]",
+      "tags": [
+        "lore",
+        "supplement",
+        "technology"
+      ]
     },
     {
-      "id": "f07d459d-718c-4683-bc89-0602073918ab",
-      "title": "Institutions — Open Questions",
-      "path": "builder-notes/f07d459d-718c-4683-bc89-0602073918ab.md"
+      "id": "9277dec6-630a-44e5-bf57-12dec6b879b6",
+      "title": "The Dome — Technical Conditions",
+      "path": "9277dec6-630a-44e5-bf57-12dec6b879b6.md",
+      "partOf": "[[aa6eda8e-963e-4dcc-9af9-5145cd8c9527|The Dome]]",
+      "tags": [
+        "lore",
+        "supplement",
+        "geography"
+      ]
     },
     {
-      "id": "385da295-f8fe-48a6-977e-f55b23a6078d",
-      "title": "Technology — Open Questions",
-      "path": "builder-notes/385da295-f8fe-48a6-977e-f55b23a6078d.md"
+      "id": "7bd3857c-88da-4c8b-acf1-a8aebdd24c3b",
+      "title": "The Festival — Conditions of the Experience",
+      "path": "7bd3857c-88da-4c8b-acf1-a8aebdd24c3b.md",
+      "partOf": "[[4719bd14-62a2-438e-aad9-2896fd76a363|The Festival]]",
+      "tags": [
+        "lore",
+        "supplement",
+        "society"
+      ]
+    },
+    {
+      "id": "0a1c6516-6280-4fc0-a1a5-586f488ed0a1",
+      "title": "Character & Attitude — Unrecognized Dependence",
+      "path": "0a1c6516-6280-4fc0-a1a5-586f488ed0a1.md",
+      "partOf": "[[056ae6dd-1c03-4b3a-9e2a-f59082dab862|Character & Attitude]]",
+      "tags": [
+        "lore",
+        "supplement",
+        "society"
+      ]
+    },
+    {
+      "id": "f9ccbc1e-3d53-4b9f-9cdd-fd9989a952ed",
+      "title": "Wealth & Abundance — Material Foundations",
+      "path": "f9ccbc1e-3d53-4b9f-9cdd-fd9989a952ed.md",
+      "partOf": "[[ab11744a-9b3d-4c17-82d6-04003387a140|Wealth & Abundance]]",
+      "tags": [
+        "lore",
+        "supplement",
+        "society"
+      ]
+    },
+    {
+      "id": "e94ac6ed-3d95-4abd-8b82-999fb9c2f3e6",
+      "title": "Technology Overview — Underlying Systems",
+      "path": "e94ac6ed-3d95-4abd-8b82-999fb9c2f3e6.md",
+      "partOf": "[[ad7aaa44-b455-414e-a43e-9de1b8ca6d65|Technology Overview]]",
+      "tags": [
+        "lore",
+        "supplement",
+        "technology"
+      ]
     },
     {
       "id": "1f38f5ab-5936-450d-98e9-f438e86014d8",
       "title": "Worldbuilding Meta Notes",
       "path": "builder-notes/1f38f5ab-5936-450d-98e9-f438e86014d8.md",
-      "legacyPath": "open-questions/worldbuilding-meta.md"
+      "legacyPath": "open-questions/worldbuilding-meta.md",
+      "tags": [
+        "builder",
+        "inspiration"
+      ]
+    },
+    {
+      "id": "385da295-f8fe-48a6-977e-f55b23a6078d",
+      "title": "Technology — Open Questions",
+      "path": "builder-notes/385da295-f8fe-48a6-977e-f55b23a6078d.md",
+      "tags": [
+        "builder",
+        "technology",
+        "todo"
+      ]
+    },
+    {
+      "id": "54cc7097-07e0-4723-9c1a-d1ec7e8030ee",
+      "title": "Time and Calendar Conventions",
+      "path": "builder-notes/54cc7097-07e0-4723-9c1a-d1ec7e8030ee.md",
+      "tags": [
+        "builder",
+        "conventions"
+      ]
+    },
+    {
+      "id": "71005257-10c3-4d53-a389-64073c5e9dad",
+      "title": "Society — Open Questions",
+      "path": "builder-notes/71005257-10c3-4d53-a389-64073c5e9dad.md",
+      "tags": [
+        "builder",
+        "society",
+        "todo"
+      ]
+    },
+    {
+      "id": "c6fe54af-e77e-4133-9bf9-9af2622bde10",
+      "title": "Geography — Open Questions",
+      "path": "builder-notes/c6fe54af-e77e-4133-9bf9-9af2622bde10.md",
+      "legacyPath": "geography/ideas-and-open-questions/beyond-the-city.md",
+      "tags": [
+        "builder",
+        "geography",
+        "todo"
+      ]
+    },
+    {
+      "id": "f07d459d-718c-4683-bc89-0602073918ab",
+      "title": "Institutions — Open Questions",
+      "path": "builder-notes/f07d459d-718c-4683-bc89-0602073918ab.md",
+      "tags": [
+        "builder",
+        "institutions",
+        "todo"
+      ]
     }
   ],
   "removedScaffolding": [

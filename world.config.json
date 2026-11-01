@@ -13,7 +13,12 @@
   "buildVariants": {
     "wiki": {
       "tags": [
-        "public"
+        "lore"
+      ]
+    },
+    "atlantis-inhabitants": {
+      "tags": [
+        "Atlantis inhabitants"
       ]
     }
   }

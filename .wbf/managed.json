@@ -1,15 +1,15 @@
 {
-  "frameworkVersion": "0.2.9",
-  "branch": "main",
+  "frameworkVersion": "0.2.11",
+  "branch": "master",
   "agents": [
     "codex"
   ],
   "skillsDirs": [],
   "files": {
-    ".github/workflows/publish.yml": "b40cc97a7863f9134e4ce9e99b342d3aabee5145c6164d6ae6c08b36c9978937",
-    "AGENTS.md": "fe9705c966508d537c9c43d107e1d17b2b458bef0b7f55332ed86bbb62537dec",
+    ".github/workflows/publish.yml": "56594ec2fec86339b62f0a0604dc5d3c5de7bd033fd0c8f7711f48ff167fd1c6",
+    "AGENTS.md": "473684f542db730a23e9ef5350ece53264f32abfe7b718ce65924d50aef2272c",
     ".agents/skills/world-timelines/SKILL.md": "b5469a970c1a98deaee9b789aed2b56e09098ac4d1b085bbe5554ce2feb5c67c",
-    ".agents/skills/world-vault/SKILL.md": "876f304fa27bd79277872a55145e14dbcc38c2b3e3a1215be0ee38e55418f6eb",
-    ".codex/config.toml": "66b8e67ad00d3f4b068ceaff14814783d791be1ef37277c8bb82bcb41be23d23"
+    ".agents/skills/world-vault/SKILL.md": "091f48d724fcddc4cd717a6a36e211b1107c7562d952c938bfd5d0a8d873bb49",
+    ".codex/config.toml": "8918b7413daeab58f5b2a31eee3e01df1572851f98c7d45d019c8fe4fe9f27f0"
   }
 }

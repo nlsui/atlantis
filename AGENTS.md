@@ -1,6 +1,6 @@
 # Agent instructions
 
-This repo is a world built with the World Building Framework (version 0.2.9). Its content is a vault of UUID-named Markdown files next to `world.config.json`.
+This repo is a world built with the World Building Framework (version 0.2.11). Its content is a vault of UUID-named Markdown files next to `world.config.json`.
 
 - Read and write the vault only through the `wbf` command-line tool: run `npx wbf <command>` from this folder. It prints JSON.
 - Run `npx wbf schema` before writing anything, `npx wbf search <terms>` before creating something, and `npx wbf --help` for every command.
@@ -9,11 +9,12 @@ This repo is a world built with the World Building Framework (version 0.2.9). It
 - Don't leave helper scripts, test files or notes of your own in this folder: it's the world's repo, and everything committed here is published with it. Use a temporary folder outside it, and delete what you no longer need.
 - Never hand-write or hand-edit a vault `.md` file. Only `wbf create` and `wbf update` validate content, and only `create` generates the required UUID filename.
 - Answer questions about the world only from its files (search, read, follow the relevant links), name the file each statement comes from, and say when the world doesn't establish something instead of inventing it. Mind the point in time (entities change through versions) and the audience (for one wiki, use only the files that wiki includes).
+- Each wiki (`buildVariants` in `world.config.json`) includes or leaves out whole files by their tags and shows an included file in full. Keep secrets in their own files with narrower tags. For extra details about one entity meant for fewer readers, create a supplement: an entity with `partOf` (a link to the main entry's first file) and narrower tags. A wiki that includes both shows it as a section of the main entry's page; it can only be in wikis its main entry is in.
 - Before writing, work out the whole change (including which linked files it affects), report it to the user in plain words for all files at once, and wait for their OK. Then write everything and report what was written.
 
 ## Publishing
 
-Every push to the `main` branch publishes the wikis to GitHub Pages. If the GitHub CLI (`gh`) is installed and logged in, you can set that up for the user: create the repo (`gh repo create`), turn on Pages (`gh api -X POST repos/<owner>/<repo>/pages -f build_type=workflow`), and check runs (`gh run list`, `gh run view --log-failed`). Always ask before making a repo public: on a free account Pages needs it public, and anyone can then read everything in it.
+Every push to the `master` branch publishes the wikis to GitHub Pages. If the GitHub CLI (`gh`) is installed and logged in, you can set that up for the user: create the repo (`gh repo create`), turn on Pages (`gh api -X POST repos/<owner>/<repo>/pages -f build_type=workflow`), and check runs (`gh run list`, `gh run view --log-failed`). Always ask before making a repo public: on a free account Pages needs it public, and anyone can then read everything in it.
 
 ## Skills
 

@@ -6,7 +6,10 @@
     "validate": "wbf validate",
     "search": "wbf search",
     "render": "wbf render --variant wiki",
-    "build": "wbf render --variant wiki --build"
+    "build": "wbf publish --output site",
+    "render:inhabitants": "wbf render --variant atlantis-inhabitants",
+    "build:wiki": "wbf render --variant wiki --build",
+    "build:inhabitants": "wbf render --variant atlantis-inhabitants --build"
   },
   "repository": {
     "type": "git",
@@ -20,7 +23,7 @@
   },
   "homepage": "https://github.com/nlsui/atlantis#readme",
   "dependencies": {
-    "world-building-framework": "0.2.9"
+    "world-building-framework": "0.2.11"
   },
   "private": true,
   "engines": {
