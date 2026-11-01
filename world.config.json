@@ -1,0 +1,20 @@
+{
+  "title": "Atlantis",
+  "entityTypes": [
+    "location",
+    "society",
+    "institution",
+    "technology",
+    "note",
+    "creature",
+    "role",
+    "tradition"
+  ],
+  "buildVariants": {
+    "wiki": {
+      "tags": [
+        "public"
+      ]
+    }
+  }
+}

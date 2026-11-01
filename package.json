@@ -1,0 +1,29 @@
+{
+  "name": "atlantis",
+  "version": "1.0.0",
+  "description": "Atlantis is a world-building project — a collaborative effort to construct a vast, detailed fictional world from the ground up.",
+  "scripts": {
+    "validate": "wbf validate",
+    "search": "wbf search",
+    "render": "wbf render --variant wiki",
+    "build": "wbf render --variant wiki --build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlsui/atlantis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nlsui/atlantis/issues"
+  },
+  "homepage": "https://github.com/nlsui/atlantis#readme",
+  "dependencies": {
+    "world-building-framework": "0.2.9"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  }
+}
